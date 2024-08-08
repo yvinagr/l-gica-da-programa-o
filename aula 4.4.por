@@ -29,11 +29,11 @@ programa
 		escreva("\n sala:",sala )
 		escreva("\n professor:", professor)
 		escreva("\n idade :", idade)
-		escreva("\n nota1:", matematicanota)
-		escreva("\n nota2:",portuguesnota)
-	     escreva("\n notas3:",geografianota)
-		escreva("\n nota4:",historianota)
-		escreva("\n nota4:",ciencianota)
+		escreva("\n Nota de Matemática:", matematicanota)
+		escreva("\n Nota de português:",portuguesnota)
+	     escreva("\n Nota de Geografia:",geografianota)
+		escreva("\n Nota de História:",historianota)
+		escreva("\n Nota de Ciências:",ciencianota)
 	}
 	
 }
@@ -42,7 +42,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 371; 
+ * @POSICAO-CURSOR = 987; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
