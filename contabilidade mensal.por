@@ -56,7 +56,7 @@ programa
        
       // comandos de saída
 
-         escreva("\n --------comprovante de inscrição----")
+         escreva("\n ------------contabilidade mensal----------")
 	 escreva("\nome:", nome)
 	 escreva("\n idade:", idade)
 	 escreva("\n cpf:", cpf)
