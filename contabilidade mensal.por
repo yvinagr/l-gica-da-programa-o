@@ -9,7 +9,7 @@ programa
 
 	  //variáveis
 	  cadeia mes
-	  inteiro datadepagamento
+	  inteiro data
 	  real salario
 	  real luz
 	  real agua
@@ -57,8 +57,8 @@ programa
       // comandos de saída
 
          escreva("\n ------------contabilidade mensal----------")
-	 escreva("\nome:", nome)
-	 escreva("\n idade:", idade)
+	 escreva("\n mês atual:", mes)
+	 escreva("\n data de pagamento:", data)
 	 escreva("\n cpf:", cpf)
 	 escreva("\n altura:", altura)
 	 escreva("\n endereco:", endereco)
