@@ -1,8 +1,10 @@
-programa // aula 05 pagamento do mês
+programa
+ // aula 05 pagamento do mês
 {
 	
 	funcao inicio()
-	{ 
+	{
+ 
 	  // contabilidade mensal
 
 	  //variáveis
@@ -37,7 +39,7 @@ programa // aula 05 pagamento do mês
 	  leia(gas)  
 	  escreva("\n digite o valor da compra do mês:")
 	  leia(comprasmes)  
-       escreva("\n digite o valor do cartão de crédito:")
+          escreva("\n digite o valor do cartão de crédito:")
 	  leia(credito)  
 	  escreva("\n digite o valor da mensalidade escolar:")
 	  leia(escola)  
@@ -54,7 +56,7 @@ programa // aula 05 pagamento do mês
        
       // comandos de saída
 
-      escreva("\n --------comprovante de inscrição----")
+         escreva("\n --------comprovante de inscrição----")
 	 escreva("\nome:", nome)
 	 escreva("\n idade:", idade)
 	 escreva("\n cpf:", cpf)
