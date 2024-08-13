@@ -15,7 +15,7 @@ programa
      
  
       // estrutura de decisão     
-      se (numero %2 == 0)
+      se (numero /2=0)
       	escreva (" par")
       	
       } senao {
