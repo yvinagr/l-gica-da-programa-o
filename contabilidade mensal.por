@@ -29,6 +29,8 @@ programa
 	  leia(mes)
 	  escreva("\n digite a data de pagamento:")
 	  leia(data)
+          escreva("\n digite o valor do salário:")
+          leia(salario)
 	  escreva("\n digite o valor da conta de luz:")
 	  leia(luz)
 	  escreva("\n digite o valor da conta de agua")
