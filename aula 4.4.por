@@ -4,9 +4,9 @@ programa
 	funcao inicio()
 	{
        //variáveis do boletim escolar
-		cadeia escola = "roosevelt"
-		cadeia enderecoescola = "bezerra de menezes"
-		cadeia aluno = "yvina"
+		cadeia escola = " presidente roosevelt"
+		cadeia enderecoescola = "av.bezerra de menezes"
+		cadeia aluno = "yvina gonçalves ribeiro"
 		inteiro idade = 19
 		inteiro serie = 3
 		cadeia turno = "M"
@@ -42,7 +42,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 987; 
+ * @POSICAO-CURSOR = 267; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

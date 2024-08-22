@@ -5,6 +5,7 @@ programa//OPERADOES ARITIMETICOS
 	{
 
       //DECLARAÇÃO DE VARIÁVEIS
+      
       real valor1, valor2, valor3, total
 
       //comandos de entrada
@@ -32,7 +33,7 @@ programa//OPERADOES ARITIMETICOS
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 678; 
+ * @POSICAO-CURSOR = 692; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

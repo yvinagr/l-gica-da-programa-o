@@ -1,10 +1,10 @@
-programa//  AULA 04 CAMANDO DE ENTRADA - LEIA
+programa//  AULA 04 CAMANDO DE ENTRADA - LEIA
 {
 	
 	funcao inicio()
-	{ // CADASTRO DE CLIENTES
+	{ // CADASTRO DE CLIENTES
 
-	//VAARIÁVEIS
+	//VARIÁVEIS
 	cadeia nome
 	cadeia idade
 	cadeia cpf
@@ -40,7 +40,7 @@ programa//  AULA 04 CAMANDO DE ENTRADA - LEIA
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 708; 
+ * @POSICAO-CURSOR = 100; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;

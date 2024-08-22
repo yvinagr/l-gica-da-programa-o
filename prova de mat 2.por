@@ -224,13 +224,9 @@ programa
      nota = +0 pare
      caso contrario : escreva(" resposta incorreta! \n")  
 	}
+
+
 	
-     // estrutura de saída
-      se (nota >= 6) {
-      	escreva ("aprovado!")
-      } senao {
-      	escreva (" reprovado!")
-      }
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -238,7 +234,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 6048; 
+ * @POSICAO-CURSOR = 6055; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
